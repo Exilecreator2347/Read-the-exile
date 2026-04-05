@@ -10,7 +10,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Arial, sans-serif;
+    font-family: 'Anime Ace';
     background-color: var(--bg-black);
     color: var(--text-white);
 }
