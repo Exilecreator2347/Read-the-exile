@@ -95,3 +95,12 @@ h1 {
     text-decoration: none;
     font-weight: bold;
 }
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1a1a1a; /* Dark background to match a manga vibe */
+    color: #ffffff;            /* White text */
+    font-size: 14px;
+    margin-top: 50px;          /* Pushes it away from your manga panels */
+    border-top: 1px solid #333;
+}
